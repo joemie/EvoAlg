@@ -1,0 +1,162 @@
+WARNING:root:---RUN START : 1345938398059
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022CA440>
+WARNING:root:---RUN END   : 1345938398059
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345938415827
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0230A440>
+WARNING:root:---RUN END   : 1345938415827
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345938434750
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x023CA440>
+WARNING:root:---RUN END   : 1345938434750
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345938566439
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022B9440>
+WARNING:root:---RUN START : 1345938656840
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02239440>
+WARNING:root:---RUN END   : 1345938656840
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345938720098
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02239440>
+WARNING:root:---RUN START : 1345938735386
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022D9440>
+WARNING:root:---RUN END   : 1345938735386
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345938815202
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02269440>
+WARNING:root:---RUN END   : 1345938815218
+WARNING:root:---RUN Length: 16
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345938904531
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0224A440>
+WARNING:root:---RUN END   : 1345938904531
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939096342
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0220A440>
+WARNING:root:---RUN END   : 1345939096342
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939291950
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0237A440>
+WARNING:root:---RUN END   : 1345939291950
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939357579
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0225E440>
+WARNING:root:---RUN END   : 1345939357579
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939411556
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0222A440>
+WARNING:root:---RUN END   : 1345939411556
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939465681
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0232A440>
+WARNING:root:---RUN END   : 1345939465681
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939509189
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0226A440>
+WARNING:root:---RUN END   : 1345939509189
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939581319
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022AE440>
+WARNING:root:---RUN END   : 1345939581319
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939604204
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x021BE440>
+WARNING:root:---RUN END   : 1345939604204
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939606544
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0234E440>
+WARNING:root:---RUN END   : 1345939606544
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939620366
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0226A440>
+WARNING:root:---RUN END   : 1345939620366
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939639757
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0226A440>
+WARNING:root:---RUN END   : 1345939639757
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939663024
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0226A440>
+WARNING:root:---RUN END   : 1345939663024
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939683711
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0227E440>
+WARNING:root:---RUN END   : 1345939683711
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939704069
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0228A440>
+WARNING:root:---RUN END   : 1345939704069
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 7
+WARNING:root:---RUN START : 1345939715454
+WARNING:root:---RUN SEED  : 8
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0227A440>
+WARNING:root:---RUN END   : 1345939715454
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 8
+WARNING:root:---RUN START : 1345939798130
+WARNING:root:---RUN SEED  : 8
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0229E440>
+WARNING:root:---RUN END   : 1345939798130
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 8
+WARNING:root:---RUN START : 1345939866630
+WARNING:root:---RUN SEED  : 8
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x021BA440>
+WARNING:root:---RUN END   : 1345939866630
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 8
+WARNING:root:---RUN START : 1345939879796
+WARNING:root:---RUN SEED  : 8
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022FA440>
+WARNING:root:---RUN END   : 1345939879796
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 8
+WARNING:root:---RUN START : 1345939890269
+WARNING:root:---RUN SEED  : 1
+WARNING:root:---INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x0230A440>
+WARNING:root:---RUN END   : 1345939890269
+WARNING:root:---RUN Length: 0
+WARNING:root:---RUN SEED  : 1

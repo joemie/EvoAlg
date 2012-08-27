@@ -1,4 +1,3 @@
-# -*- coding: utf-8 *-*
 def buildGraph(myFileBuffer):
     edges = []
     for line in myFileBuffer:
@@ -16,4 +15,8 @@ def calculateFitness(edges, subNodes1, subNodes2, cut):
             numCuts += 1
         elif tStart in subNodes2 and tEnd not in subNodes2:
             numCuts += 1
-    return float(numCuts) / min(cut.count(0), cut.count(1))
+    if numCuts == 0:
+        return 10000  #the graph wasn't cut so return a really large fitness
+    else:
+        return float(numCuts) / min(cut.count(0), cut.count(1))
+

@@ -46,6 +46,7 @@ for i in range(int(numRuns)):
     subNodes1 = []
     subNodes2 = []
     cut = []
+    tTime = Decimal(time.time() * 1000)
     for j in range(int(numNodes)):
         subGroup = random.randrange(2)
         cut.append(subGroup)
@@ -53,7 +54,10 @@ for i in range(int(numRuns)):
             subNodes1.append(j + 1)
         else:
             subNodes2.append(j + 1)
+    print "LOAD CUT: " + str(Decimal(time.time() * 1000) - tTime)
+    tTime = Decimal(time.time() * 1000)
     fitness = calculateFitness(edges, subNodes1, subNodes2, cut)
+    print "CALC FIT: " + str(Decimal(time.time() * 1000) - tTime)
     if fitness < bestFitness:
         bestFitness = fitness
         bestCut = cut

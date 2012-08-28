@@ -16,7 +16,8 @@ def calculateFitness(edges, subNodes1, subNodes2, cut):
         elif tStart in subNodes2 and tEnd not in subNodes2:
             numCuts += 1
     if numCuts == 0:
-        return 10000  #the graph wasn't cut so return a really large fitness
+        # the graph wasn't cut so return a really large fitness
+        return 10000
     else:
         return float(numCuts) / min(cut.count(0), cut.count(1))
 

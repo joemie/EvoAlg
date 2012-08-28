@@ -1,23 +1,39 @@
+import time
+import sys
+import random
+import os
+from graph import *
+from decimal import Decimal
 def buildGraph(myFileBuffer):
-    edges = []
+    edges = {}
     for line in myFileBuffer:
         startNode = line[0:line.index(" ")]
-        endNode = line[line.index(" "):]
-        edges.append([startNode, endNode])
+        endNode = line[line.index(" ") + 1:]
+        temp = []
+        if edges.has_key(startNode):
+            temp = list(edges.pop(startNode))
+            temp.append(endNode)
+            edges[startNode] = temp
+        else:
+            edges[startNode] = list(endNode)
+        if edges.has_key(endNode):
+            temp = list(edges.pop(endNode))
+            temp.append(startNode)
+            edges[endNode] = temp
+        else:
+            edges[endNode] = list(startNode)
     return edges
 
-def calculateFitness(edges, subNodes1, subNodes2, cut):
+def calculateFitness(edges, cut):
     numCuts = 0
-    for edgeIter in range(len(edges)):
-        tStart = int(edges[edgeIter][0])
-        tEnd = int(edges[edgeIter][1])
-        if tStart in subNodes1 and tEnd not in subNodes1:
-            numCuts += 1
-        elif tStart in subNodes2 and tEnd not in subNodes2:
-            numCuts += 1
+    for key in edges.iterkeys():
+        for edgeIndex in range(len(edges[key])):
+            value = edges[key][edgeIndex]
+            if cut[int(key) - 1] != cut[int(value) - 1]:
+                numCuts += 1
     if numCuts == 0:
         # the graph wasn't cut so return a really large fitness
         return 10000
     else:
-        return float(numCuts) / min(cut.count(0), cut.count(1))
+        return float(numCuts / 2) / min(cut.count(0), cut.count(1))
 

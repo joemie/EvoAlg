@@ -46,17 +46,9 @@ for i in range(int(numRuns)):
     subNodes1 = []
     subNodes2 = []
     cut = []
+    cut = list(bin(random.randrange(2 ** int(numNodes) - 1, 2 ** int(numNodes)))[2:])
     tTime = Decimal(time.time() * 1000)
-    for j in range(int(numNodes)):
-        subGroup = random.randrange(2)
-        cut.append(subGroup)
-        if subGroup == 0:
-            subNodes1.append(j + 1)
-        else:
-            subNodes2.append(j + 1)
-    print "LOAD CUT: " + str(Decimal(time.time() * 1000) - tTime)
-    tTime = Decimal(time.time() * 1000)
-    fitness = calculateFitness(edges, subNodes1, subNodes2, cut)
+    fitness = calculateFitness(edges, cut)
     print "CALC FIT: " + str(Decimal(time.time() * 1000) - tTime)
     if fitness < bestFitness:
         bestFitness = fitness
@@ -74,4 +66,5 @@ logFile.write("SESSION SEED  : %s" % seed + "\n")
 solutionFile.write(str(bestFitness) + "\n")
 solutionFile.write(str(bestCut) + "\n")
 solutionFile.close()
+logFile.close()
 print "DONE"

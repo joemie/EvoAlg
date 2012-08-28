@@ -20,3 +20,472 @@ BEST FITNESS  : 1.66666666667
 BEST CUT: [0, 1, 0, 1, 0, 0, 0, 1]
 SESSION Length: 3
 SESSION SEED  : 1346177834062
+SESSION START : 1346178488339
+SESSION SEED  : 1346178488339
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02226EE8>
+SESSION START : 1346178525756
+SESSION SEED  : 1346178525756
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02196EE8>
+SESSION START : 1346178602793
+SESSION SEED  : 1346178602793
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022C6EE8>
+RUN 0
+FITNESS: 4.0
+RUN 1
+FITNESS: 3.0
+RUN 2
+FITNESS: 2.66666666667
+RUN 3
+FITNESS: 2.5
+SESSION END   : 1346178602801
+BEST FITNESS  : 2.5
+BEST CUT: [0, 0, 0, 0, 1, 1, 0, 0]
+SESSION Length: 8
+SESSION SEED  : 1346178602793
+SESSION START : 1346179027131
+SESSION SEED  : 1346179027131
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02236EE8>
+SESSION START : 1346179054914
+SESSION SEED  : 1346179054914
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02326EE8>
+SESSION START : 1346179075558
+SESSION SEED  : 1346179075558
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022C6EE8>
+SESSION START : 1346179134522
+SESSION SEED  : 1346179134522
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x021D6EE8>
+SESSION START : 1346179189581
+SESSION SEED  : 1346179189581
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02326EE8>
+SESSION START : 1346179209600
+SESSION SEED  : 1346179209600
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02236EE8>
+SESSION START : 1346179303958
+SESSION SEED  : 1346179303958
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02286EE8>
+SESSION START : 1346179325132
+SESSION SEED  : 1346179325132
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x023D6EE8>
+SESSION START : 1346179483899
+SESSION SEED  : 1346179483899
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02176EE8>
+SESSION START : 1346179492754
+SESSION SEED  : 1346179492754
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02286EE8>
+SESSION START : 1346179518056
+SESSION SEED  : 1346179518056
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02246EE8>
+SESSION START : 1346179534066
+SESSION SEED  : 1346179534066
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02236EE8>
+SESSION START : 1346179573960
+SESSION SEED  : 1346179573960
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x021D6EE8>
+SESSION START : 1346179928924
+SESSION SEED  : 1346179928924
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02236EE8>
+SESSION START : 1346180015823
+SESSION SEED  : 1346180015823
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022A6EE8>
+SESSION START : 1346180441521
+SESSION SEED  : 1346180441521
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02236EE8>
+SESSION START : 1346180459932
+SESSION SEED  : 1346180459932
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x021F6EE8>
+SESSION START : 1346180640481
+SESSION SEED  : 1346180640481
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02196EE8>
+SESSION END   : 1346180640490
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 9
+SESSION SEED  : 1346180640481
+SESSION START : 1346180854020
+SESSION SEED  : 1346180854020
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02276EE8>
+SESSION END   : 1346180854030
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 10
+SESSION SEED  : 1346180854020
+SESSION START : 1346180899906
+SESSION SEED  : 1346180899906
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022C6EE8>
+SESSION END   : 1346180899915
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 9
+SESSION SEED  : 1346180899906
+SESSION START : 1346180943547
+SESSION SEED  : 1346180943547
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02206EE8>
+SESSION END   : 1346180943558
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 11
+SESSION SEED  : 1346180943547
+SESSION START : 1346180982522
+SESSION SEED  : 1346180982522
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02206EE8>
+SESSION END   : 1346180982526
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 4
+SESSION SEED  : 1346180982522
+SESSION START : 1346181022493
+SESSION SEED  : 1346181022493
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022B6EE8>
+SESSION END   : 1346181022504
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 11
+SESSION SEED  : 1346181022493
+SESSION START : 1346181057751
+SESSION SEED  : 1346181057751
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02276EE8>
+SESSION END   : 1346181057762
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 11
+SESSION SEED  : 1346181057751
+SESSION START : 1346181066924
+SESSION SEED  : 1346181066924
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022A6EE8>
+SESSION END   : 1346181066931
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 7
+SESSION SEED  : 1346181066924
+SESSION START : 1346181149897
+SESSION SEED  : 1346181149897
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022F6EE8>
+SESSION END   : 1346181149908
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 11
+SESSION SEED  : 1346181149897
+SESSION START : 1346181212213
+SESSION SEED  : 1346181212213
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02226EE8>
+SESSION END   : 1346181212221
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 8
+SESSION SEED  : 1346181212213
+SESSION START : 1346181219249
+SESSION SEED  : 1346181219249
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022A6EE8>
+SESSION END   : 1346181219258
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 9
+SESSION SEED  : 1346181219249
+SESSION START : 1346181233711
+SESSION SEED  : 1346181233711
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02286EE8>
+SESSION END   : 1346181233716
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 5
+SESSION SEED  : 1346181233711
+SESSION START : 1346181285792
+SESSION SEED  : 1346181285792
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02396EE8>
+SESSION END   : 1346181285804
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 12
+SESSION SEED  : 1346181285792
+SESSION START : 1346181329252
+SESSION SEED  : 1346181329252
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022D6EE8>
+SESSION END   : 1346181329264
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 12
+SESSION SEED  : 1346181329252
+SESSION START : 1346181368352
+SESSION SEED  : 1346181368352
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02366EE8>
+SESSION END   : 1346181368359
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 7
+SESSION SEED  : 1346181368352
+SESSION START : 1346181394871
+SESSION SEED  : 1346181394871
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022D6EE8>
+SESSION END   : 1346181394883
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 12
+SESSION SEED  : 1346181394871
+SESSION START : 1346181408621
+SESSION SEED  : 1346181408621
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02376EE8>
+SESSION END   : 1346181408628
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 7
+SESSION SEED  : 1346181408621
+SESSION START : 1346181545257
+SESSION SEED  : 1346181545257
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02256EE8>
+RUN 0
+FITNESS: 4.66666666667
+SESSION END   : 1346181545266
+BEST FITNESS  : 4.66666666667
+BEST CUT: [0, 1, 1, 0, 0, 0, 1, 0]
+SESSION Length: 9
+SESSION SEED  : 1346181545257
+SESSION START : 1346181556332
+SESSION SEED  : 1346181556332
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02286EE8>
+RUN 0
+FITNESS: 8.0
+RUN 1
+FITNESS: 5.33333333333
+RUN 2
+FITNESS: 4.66666666667
+RUN 3
+FITNESS: 3.5
+SESSION END   : 1346181556339
+BEST FITNESS  : 3.5
+BEST CUT: [0, 1, 1, 1, 0, 0, 0, 1]
+SESSION Length: 7
+SESSION SEED  : 1346181556332
+SESSION START : 1346181566130
+SESSION SEED  : 1346181566130
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x021E6EE8>
+RUN 0
+FITNESS: 3.5
+SESSION END   : 1346181566141
+BEST FITNESS  : 3.5
+BEST CUT: [1, 0, 0, 1, 0, 0, 1, 1]
+SESSION Length: 11
+SESSION SEED  : 1346181566130
+SESSION START : 1346181575655
+SESSION SEED  : 1346181575655
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02206EE8>
+RUN 0
+FITNESS: 8.0
+RUN 1
+FITNESS: 4.66666666667
+SESSION END   : 1346181575664
+BEST FITNESS  : 4.66666666667
+BEST CUT: [0, 0, 0, 1, 1, 0, 1, 0]
+SESSION Length: 9
+SESSION SEED  : 1346181575655
+SESSION START : 1346181591867
+SESSION SEED  : 1346181591867
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x021A6EE8>
+RUN 0
+FITNESS: 3.0
+RUN 1
+FITNESS: 2.33333333333
+SESSION END   : 1346181591877
+BEST FITNESS  : 2.33333333333
+BEST CUT: [0, 1, 1, 0, 0, 0, 1, 0]
+SESSION Length: 10
+SESSION SEED  : 1346181591867
+SESSION START : 1346181694167
+SESSION SEED  : 1346181694167
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022C6EE8>
+RUN 0
+FITNESS: 2.33333333333
+SESSION END   : 1346181694175
+BEST FITNESS  : 2.33333333333
+BEST CUT: [0, 1, 1, 0, 0, 0, 1, 0]
+SESSION Length: 8
+SESSION SEED  : 1346181694167
+SESSION START : 1346181761470
+SESSION SEED  : 1346181761470
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02346EE8>
+RUN 0
+FITNESS: 2.66666666667
+RUN 1
+FITNESS: 2.5
+RUN 2
+FITNESS: 2.0
+SESSION END   : 1346181761482
+BEST FITNESS  : 2.0
+BEST CUT: [0, 0, 0, 1, 0, 0, 1, 0]
+SESSION Length: 12
+SESSION SEED  : 1346181761470
+SESSION START : 1346181862729
+SESSION SEED  : 1346181862729
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022A6EE8>
+RUN 0
+FITNESS: 4.0
+RUN 1
+FITNESS: 3.5
+RUN 2
+FITNESS: 1.75
+SESSION END   : 1346181862737
+BEST FITNESS  : 1.75
+BEST CUT: [1, 0, 1, 0, 1, 0, 1, 0]
+SESSION Length: 8
+SESSION SEED  : 1346181862729
+SESSION START : 1346182204944
+SESSION SEED  : 1346182204944
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02326EE8>
+RUN 0
+FITNESS: 2.33333333333
+RUN 3
+FITNESS: 2.0
+SESSION END   : 1346182204958
+BEST FITNESS  : 2.0
+BEST CUT: [1, 1, 1, 0, 1, 1, 0, 1]
+SESSION Length: 14
+SESSION SEED  : 1346182204944
+SESSION START : 1346182359322
+SESSION SEED  : 1346182359322
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x021D6EE8>
+RUN 0
+FITNESS: 2.5
+RUN 1
+FITNESS: 1.75
+RUN 2
+FITNESS: 1.33333333333
+SESSION END   : 1346182359326
+BEST FITNESS  : 1.33333333333
+BEST CUT: [1, 0, 0, 0, 1, 1, 0, 0]
+SESSION Length: 4
+SESSION SEED  : 1346182359322
+SESSION START : 1346182367566
+SESSION SEED  : 1346182367566
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02276EE8>
+RUN 0
+FITNESS: 2.66666666667
+RUN 3
+FITNESS: 2.0
+SESSION END   : 1346182367573
+BEST FITNESS  : 2.0
+BEST CUT: [0, 1, 1, 0, 1, 0, 1, 0]
+SESSION Length: 7
+SESSION SEED  : 1346182367566
+SESSION START : 1346182485563
+SESSION SEED  : 1346182485563
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x021E6EE8>
+RUN 0
+FITNESS: 2.66666666667
+SESSION END   : 1346182485569
+BEST FITNESS  : 2.66666666667
+BEST CUT: [0, 1, 1, 0, 0, 1, 0, 0]
+SESSION Length: 6
+SESSION SEED  : 1346182485563
+SESSION START : 1346182534153
+SESSION SEED  : 1346182534153
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02286EE8>
+SESSION START : 1346182545042
+SESSION SEED  : 1346182545042
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x021D6EE8>
+RUN 0
+FITNESS: 2.66666666667
+SESSION END   : 1346182545049
+BEST FITNESS  : 2.66666666667
+BEST CUT: [1, 1, 0, 1, 0, 0, 0, 0]
+SESSION Length: 7
+SESSION SEED  : 1346182545042
+SESSION START : 1346182614842
+SESSION SEED  : 1346182614842
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x021E6EE8>
+RUN 0
+FITNESS: 4.0
+SESSION END   : 1346182614845
+BEST FITNESS  : 4.0
+BEST CUT: [1, 0, 1, 1, 1, 1, 1, 1]
+SESSION Length: 3
+SESSION SEED  : 1346182614842
+SESSION START : 1346182817545
+SESSION SEED  : 1346182817545
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02216EE8>
+RUN 0
+FITNESS: 3.5
+SESSION END   : 1346182817548
+BEST FITNESS  : 3.5
+BEST CUT: [1, 1, 0, 1, 1, 1, 0, 1]
+SESSION Length: 3
+SESSION SEED  : 1346182817545
+SESSION START : 1346184385425
+SESSION SEED  : 1346184385425
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02306EE8>
+RUN 0
+FITNESS: 3.5
+SESSION END   : 1346184385427
+BEST FITNESS  : 3.5
+BEST CUT: [1, 0, 1, 1, 0, 1, 0, 0]
+SESSION Length: 2
+SESSION SEED  : 1346184385425
+SESSION START : 1346184392535
+SESSION SEED  : 1346184392535
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02256EE8>
+RUN 0
+FITNESS: 3.5
+SESSION END   : 1346184392537
+BEST FITNESS  : 3.5
+BEST CUT: [1, 1, 1, 0, 0, 1, 0, 0]
+SESSION Length: 2
+SESSION SEED  : 1346184392535
+SESSION START : 1346185230217
+SESSION SEED  : 1346185230217
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022D6EE8>
+RUN 0
+FITNESS: 2.5
+RUN 2
+FITNESS: 2.0
+RUN 3
+FITNESS: 1.75
+RUN 7
+FITNESS: 1.66666666667
+RUN 30
+FITNESS: 1.33333333333
+RUN 58
+FITNESS: 0.5
+SESSION END   : 1346185233197
+BEST FITNESS  : 0.5
+BEST CUT: [1, 0, 1, 0, 1, 1, 0, 0]
+SESSION Length: 2980
+SESSION SEED  : 1346185230217
+SESSION START : 1346185296684
+SESSION SEED  : 1346185296684
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02266EE8>
+RUN 0
+FITNESS: 1.33333333333
+RUN 224
+FITNESS: 0.5
+SESSION END   : 1346185298039
+BEST FITNESS  : 0.5
+BEST CUT: [0, 1, 0, 1, 0, 0, 1, 1]
+SESSION Length: 1355
+SESSION SEED  : 1346185296684
+SESSION START : 1346187873669
+SESSION SEED  : 1346187873669
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02265EE8>
+SESSION START : 1346187904879
+SESSION SEED  : 1346187904879
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02275EE8>
+SESSION START : 1346187922914
+SESSION SEED  : 1346187922914
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022B5EE8>
+SESSION START : 1346187929312
+SESSION SEED  : 1346187929312
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022E5EE8>
+SESSION START : 1346187954162
+SESSION SEED  : 1346187954162
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02255EE8>
+SESSION START : 1346187956041
+SESSION SEED  : 1346187956041
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x02335EE8>
+SESSION START : 1346187989587
+SESSION SEED  : 1346187989587
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022A5EE8>
+SESSION START : 1346188055633
+SESSION SEED  : 1346188055633
+INPUT FILE: <open file 'C:\Users\joseph\MiscDev\Python\EvoAlg\assign1\dataFiles\example.dat', mode 'r' at 0x022A5EE8>
+SESSION END   : 1346188056729
+BEST FITNESS  : 100
+BEST CUT: []
+SESSION Length: 1096
+SESSION SEED  : 1346188055633

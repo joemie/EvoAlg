@@ -32,8 +32,7 @@ def calculateFitness(edges, cut):
             if cut[int(key) - 1] != cut[int(value) - 1]:
                 numCuts += 1
     if numCuts == 0:
-        # the graph wasn't cut so return a really large fitness
-        return 10000
+        return 10000 # the graph wasn't cut so return a really large fitness
     else:
-        return float(numCuts / 2) / min(cut.count(0), cut.count(1))
+        return float(numCuts / 2) / min(cut.count('0'), cut.count('1'))
 
